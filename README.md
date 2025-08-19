@@ -2,7 +2,7 @@
 
 ArduXED (**Ardu**ino **X**pressnet **E**infacher **D**rehregler) was born from the idea of having an additional throttle for controlling locomotives with minimal functionality similar to FREMO's FRED throttle for Loconet, but for the Xpressnet bus. 
 
-![ArduXED](images/AeduXED_Alfred.jpeg)
+![ArduXED](images/ArduXED_Alfred.jpg)
 
 
 It's ideal for leaving for our guests or young enthusiasts so they can control a single train on our model. The throttle only has a potentiometer for controlling the locomotive's speed, a switch for selecting the direction of travel, and a button to activate a function. 
